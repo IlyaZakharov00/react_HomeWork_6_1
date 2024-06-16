@@ -1,4 +1,4 @@
-export const SearchBoxView = ({ fixed }) => (
+export const SearchBoxView = ({ fixed }:any) => (
   <section className="container">
     <div className="row">
       <div className="col-sm-12">
